@@ -78,5 +78,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [Font Awesome](https://fontawesome.com/) for the sun and moon icons.
 - [Tailwind CSS](https://tailwindcss.com/) for the utility-first CSS framework.
 ## ScreenShots
+![image](https://github.com/abhi9ji01/Weather-App/assets/113001596/050fdbc6-8ec5-4415-ae95-47cc6898feb2)
+![image](https://github.com/abhi9ji01/Weather-App/assets/113001596/fbd64005-a1b3-4f16-98a2-637c113e895a)
+
 
 
